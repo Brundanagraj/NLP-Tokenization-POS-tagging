@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="back">
+    <file>images/download.jfif</file>
+    <file>images/nlp.jpeg</file>
+  </qresource>
+</RCC>
